@@ -4,12 +4,12 @@
 - Gosto de aprender sobre Linux e C
 - Quero aprender sobre Rust, Bash, Assembly
 
-<div align="center">
+<p align="center">
 	<a href="https://github.com/arthur-augusto">
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthur-augusto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-augusto&layout=compact&langs_count=7&theme=dark"/>
 	<a href = "mailto:arthur.augusto.rp@gmail.com">
-</div>
+</p>
 
 <div align="center">
 	<img alt="c lang icon" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
