@@ -1,8 +1,8 @@
-# Olá, meu nome é Arthur Augusto
+# Arthur Augusto
 
-- Sou estudante de Engenharia de Software na Universidade de Brasília
-- Gosto de aprender sobre Linux e C
-- Quero aprender sobre Rust, Bash, Assembly
+- Sou estudante de Engenharia de Software na Universidade de Brasília;
+- Gosto de aprender sobre Linux e C;
+- Quero aprender sobre Rust, Bash, Assembly e programação de baixo nível.
 
 <p align="center">
 	<a href="https://github.com/arthur-augusto">
