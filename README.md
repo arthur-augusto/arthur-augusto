@@ -1,8 +1,11 @@
 # Arthur Augusto
 
 - Sou estudante de Engenharia de Software na Universidade de Brasília;
-- Gosto de aprender sobre Linux e C;
+- Gosto de estudar sobre Linux, Java, Estruturas de Dados, Algoritmos e Programação Competitiva;
 - Quero aprender sobre Rust, Bash, Assembly e programação de baixo nível.
+- [Perfil AtCoder](https://atcoder.jp/users/arthur_augusto)
+- [Perfil Codeforces](https://codeforces.com/profile/arthur_augusto)
+- [Perfil Virtual Judge](https://vjudge.net/user/arthur_augusto)
 
 <p align="center">
 	<a href="https://github.com/arthur-augusto">
