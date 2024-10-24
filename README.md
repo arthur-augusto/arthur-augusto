@@ -8,7 +8,11 @@
 - In my free time, I enjoy doing outdoor activities like swimming and jogging.
 
 - Wargames/CTFs
-	- [TryHackMe](https://tryhackme.com/r/p/arthuraugusto)
+ <p align="left">
+	<a href="https://tryhackme.com/r/p/arthuraugusto">
+		<img src="https://tryhackme-badges.s3.amazonaws.com/arthuraugusto.png" alt="Your Image Badge" />
+	</a>
+</p>
 
 - Competitive Programming
 	- [AtCoder](https://atcoder.jp/users/arthur_augusto)
