@@ -7,25 +7,7 @@
 - Would like to learn about Assembly, Reverse Engineering and Malware Analysis;
 - In my free time, I enjoy doing outdoor activities like swimming and jogging.
 
-- Wargames/CTFs
-	- HackTheBox: arthuraugusto#2099185
- 	- TryHackMe:
- <p align="left">
-	<a href="https://tryhackme.com/r/p/arthuraugusto">
-		<img src="https://tryhackme-badges.s3.amazonaws.com/arthuraugusto.png" alt="Your Image Badge" />
-	</a>
- </p>
-
-- Competitive Programming
-	- [AtCoder](https://atcoder.jp/users/arthur_augusto)
-	- [Codeforces](https://codeforces.com/profile/arthur_augusto)
-
-<p align="center">
-	<a href="https://github.com/arthur-augusto">
-	<img height="150em" src="https://github-readme-stats.vercel.app/api?username=arthur-augusto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-	<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-augusto&layout=compact&langs_count=7&theme=dark"/>
-	<a href = "mailto:arthur.augusto.rp@gmail.com">
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 <div align="center">
 	<!--alt=" icon" height="60" width="80" -->
